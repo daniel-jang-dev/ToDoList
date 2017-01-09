@@ -1,5 +1,6 @@
 # To Do List App
 (for webcanada project)
+![alt tag](Screenshot.png)
 
 Features
 - There are two lists, one for not completed tasks, and the other for all lists.
